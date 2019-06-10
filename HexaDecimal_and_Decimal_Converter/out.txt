@@ -1,0 +1,7 @@
+User
+2019/06/10 09:12:19
+H -> D Input: 1 Output: 1
+H -> D Input: 11 Output: 17
+D -> H Input: 12 Output: C
+Session Terminated
+ 
